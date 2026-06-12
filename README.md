@@ -6,7 +6,7 @@ The game provides instant feedback, score tracking, and a simple yet engaging us
 
 ## 🚀 Live Demo
 
-**Try it here:** [https://your-guess-my-number-live-link.com](https://mehdysadeghi.github.io/Guess-My-Number/)
+**Try it here:** (https://mehdysadeghi.github.io/Guess-My-Number/)
 
 ---
 
