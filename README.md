@@ -32,7 +32,7 @@ The game provides instant feedback, score tracking, and a simple yet engaging us
 ### Losing State
 
 ```md
-![Guess My Number Win](./screenshots/lose.png)
+![Guess My Number Lose](./screenshots/lose.png)
 ```
 
 
